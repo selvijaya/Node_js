@@ -1,0 +1,21 @@
+03042024	15:44:33	3e495ff5-31ef-4a1a-8f1d-8d0a1613faab	SyntaxError:Unexpected non-whitespace character after JSON at position 58
+03042024	15:44:34	eb46ea8a-8c43-445c-ae99-a4e7d5ca37ee	SyntaxError:Unexpected non-whitespace character after JSON at position 58
+03042024	16:04:25	2e6938c1-8715-410e-b73b-ff69c784febd	SyntaxError:Unexpected non-whitespace character after JSON at position 58
+03042024	16:07:44	559ae4c6-945e-488e-9365-2b75286707e4	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:46	7abc1b62-da0f-42b7-958e-669d18a941f8	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:47	da89745b-6045-42a9-8b38-1f49d90b8ec6	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:48	21af057b-1af5-4ed0-acd4-defe32e509c3	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:48	ee5ca862-a3bc-42ea-8790-88a9b5aede16	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:49	e990e77f-2b73-4570-bc0f-cb25101544b4	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:49	869d903c-e81d-4798-8c19-ff12fe58f271	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:50	334effd6-545b-4304-9b16-7e3839beaf19	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:55	b29071d7-41cc-46b1-b391-a71c14aedcea	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:07:58	2c0f1b31-2fd6-4d73-bc10-244998d6ef31	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:08:06	e8e36344-e51f-4ec9-8911-6ed0649444ac	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+03042024	16:08:16	da21ebb6-35dd-4cbb-a4d1-68a542b7eaa2	SyntaxError:Unexpected non-whitespace character after JSON at position 56
+05042024	09:14:03	5a685cc9-d953-4c26-9a6e-c56eb865901c	SyntaxError:Expected ':' after property name in JSON at position 15
+05042024	09:46:00	db892717-5750-4506-902f-79e519e6df4d	SyntaxError:Expected ':' after property name in JSON at position 15
+05042024	13:00:29	6545d2ed-30fc-4015-8501-ee69980727a7	SyntaxError:Expected ':' after property name in JSON at position 15
+06042024	09:45:57	980641cc-b993-45d5-9217-29e22f1e1299	SyntaxError:Expected ',' or '}' after property value in JSON at position 30
+09052024	16:59:30	d2cd4f8b-7173-42a6-a24b-0cc05a832eac	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\nodejs_web_server-main\views\subdir\index.html'
+09052024	16:59:35	1846d680-30b7-47e0-97d6-e7fbae62f61c	Error:ENOENT: no such file or directory, stat 'C:\Users\Welcome\nodejs_web_server-main\views\subdir\index.html'

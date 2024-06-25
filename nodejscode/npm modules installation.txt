@@ -1,0 +1,12 @@
+install npm modules command
+
+npm install nodemon -g
+npm init -y
+npm i date-fns
+
+
+install nodemon dependencies command
+
+npm i nodemon -D
+
+npm rm nodemon -D //uninstall nodemon dependencies
